@@ -30,7 +30,7 @@ export const MainLayout = ({ children, title }: Props) => {
           property="og:description"
           content={`Esta es la pagina que te dira todo sobre pokemones como ${title}`}
         />
-        <meta property="og:image" content={`${origin}/img/banner.png`} />
+        <meta property="og:image" content={`${origin}/img/banner2.jpg`} />
       </Head>
 
       <Navbar />
